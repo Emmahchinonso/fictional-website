@@ -1,0 +1,1 @@
+This project is basically about making a website responsive and using Grid layout.
